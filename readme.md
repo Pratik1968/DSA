@@ -2,6 +2,6 @@
 
 A collection of DSA topics.
 
-It covers the following topic:
+It covers the following topics:
 
 1. Array
